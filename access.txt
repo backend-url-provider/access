@@ -1,1 +1,1 @@
-10.0.1.2:9508
+comp1.uasecurity.org:9508
